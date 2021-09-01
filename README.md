@@ -1,5 +1,9 @@
 # You may call it **C++ tips and tricks!**
 
+## Contents
+
+1. [Split string seperated by space](https://github.com/santhoshunt/life-made-easy-with-cpp/tree/main/split_string_separated_with_white_spaces)
+
 ## Why?
 
 > The first programming language I learned was python. It is obvious that python is one of the most easiest programming language to learn, but hey wait _should you learn python as your first programming language?_
