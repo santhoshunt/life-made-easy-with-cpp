@@ -2,7 +2,9 @@
 
 ## Contents
 
-1. [Split string seperated by space](https://github.com/santhoshunt/life-made-easy-with-cpp/tree/main/split_string_separated_with_white_spaces)
+1. [Split string seperated by space](https://github.com/santhoshunt/life-made-easy-with-cpp/tree/main/regex/extract_numbers_from_string)
+
+2. [Extract Numbers from a string using regex](https://github.com/santhoshunt/life-made-easy-with-cpp/tree/main/split_string_separated_with_white_spaces)
 
 ## Why?
 
@@ -16,5 +18,9 @@
 > > - strip()
 > >
 > > to python, but there are some work arounds just to make it work like the way in python.
+
+## NOTE!
+
+> #### The aim of this repository is to help how to do things, not how the method works or any detailed explanations!!
 
 #### Contribution are welcomed!
