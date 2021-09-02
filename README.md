@@ -2,9 +2,9 @@
 
 ## Contents
 
-1. [Split string seperated by space](https://github.com/santhoshunt/life-made-easy-with-cpp/tree/main/regex/extract_numbers_from_string)
+1. [Split string seperated by space](https://github.com/santhoshunt/life-made-easy-with-cpp/tree/main/split_string_separated_with_white_spaces)
 
-2. [Extract Numbers from a string using regex](https://github.com/santhoshunt/life-made-easy-with-cpp/tree/main/split_string_separated_with_white_spaces)
+2. [Extract Numbers from a string using regex](https://github.com/santhoshunt/life-made-easy-with-cpp/tree/main/regex/extract_numbers_from_string)
 
 ## Why?
 
