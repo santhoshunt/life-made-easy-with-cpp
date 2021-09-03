@@ -6,6 +6,8 @@
 
 2. [Extract Numbers from a string using regex](https://github.com/santhoshunt/life-made-easy-with-cpp/tree/main/regex/extract_numbers_from_string)
 
+3. [Remove leading and trailing white spaces from a string](https://github.com/santhoshunt/life-made-easy-with-cpp/tree/main/remove_space)
+
 ## Why?
 
 > The first programming language I learned was python. It is obvious that python is one of the most easiest programming language to learn, but hey wait _should you learn python as your first programming language?_
